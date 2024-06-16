@@ -1,0 +1,1 @@
+Use bash instead ENTRYPOINT
